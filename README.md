@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bnj35
+- 👋 Hi, I’m Bnj
 - 👀 I’m interested in Front end developement and basically the web
 - 🌱 I’m currently learning Three.js
 - 💞️ I’m looking to collaborate on any cool sideproject
