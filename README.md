@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bnj
 - 👀 I’m interested by the web basically
 - 🌱 I’m currently learning Three.js
-- 📫 How to reach me : Instagram or twitter @bnj.jpeg or @bnj_jpeg
+- 📫 How to reach me : Instagram @bnj.jpeg
