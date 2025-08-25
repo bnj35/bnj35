@@ -2,7 +2,7 @@
 <h2 align="center"> I'm currently looking for an apprenticeship </h2> 
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **Three.js** for fun
 
 - 📫 How to reach me **benjaminauger35@gmail.com**
 
