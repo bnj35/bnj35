@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Auger</h1>
-<h2 align="center"> I'm currently looking for an apprenticeship </h2> 
+<h2 align="center"> I am currently pursuing a degree in computer science as an engineering student. </h2> 
 <h3 align="center">A passionate full-stack developer from France</h3>
 
 - 🌱 I’m currently learning **Three.js** for fun
