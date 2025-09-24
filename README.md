@@ -2,7 +2,7 @@
 <h2 align="center"> I am currently pursuing a degree in computer science as an engineering student. </h2> 
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-- 🌱 I’m currently learning **Three.js** for fun
+- 🌱 I’m currently learning **Three.js** for fun an **Java** for work
 
 - 📫 How to reach me **benjaminauger35@gmail.com**
 
